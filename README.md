@@ -64,7 +64,7 @@ $HOME/admin_dashboard/reports
 | Linux commands | More than 8 commands are used |
 | Text processing | `grep`, `cut`, `sort`, `uniq`, `awk`, `tr`, `wc` |
 | Report | Option 7 generates a report file |
-| Evidence | Use `sample_terminal_output.txt` and real VM screenshots |
+| Evidence | real VM screenshots |
 
 ## Suggested Demo Steps
 
@@ -79,14 +79,10 @@ $HOME/admin_dashboard/reports
 
 ## Team Contribution
 
-Update before submission:
-
-- Student 1:
-- Student 2:
+- Student 1:Mohammad Mohammad id: 202210664 
+- Student 2: Ahmed Amarneh    id: 202111634
 
 ## Links
 
-Update before submission:
+- GitHub repository: https://github.com/mohammad0592/Unix-Lab
 
-- GitHub repository:
-- LinkedIn post:
