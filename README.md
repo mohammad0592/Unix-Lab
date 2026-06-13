@@ -19,9 +19,6 @@ dashboard.sh
 README.md
 PROJECT_REPORT.md
 COMMANDS_EXPLAINED.md
-sample_access.log
-sample_students.txt
-sample_terminal_output.txt
 ```
 
 ## How To Run On Ubuntu
