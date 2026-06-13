@@ -72,7 +72,7 @@ $HOME/admin_dashboard/reports
 2. Choose option 1 and show system information.
 3. Choose option 3 and create a file in the workspace.
 4. Choose option 4 and show the permission audit.
-5. Choose option 5 and analyze `sample_access.log` or `sample_students.txt`.
+5. Choose option 5 and analyze .
 6. Choose option 6 and create a backup.
 7. Choose option 7 and generate a full report.
 8. Take screenshots or copy terminal output for evidence.
